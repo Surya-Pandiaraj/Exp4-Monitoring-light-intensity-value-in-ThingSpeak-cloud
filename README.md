@@ -181,9 +181,7 @@ void loop()
 
 # CIRCUIT DIAGRAM
 
-<img src="https://github.com/user-attachments/assets/d8c4a7ef-11c5-400b-b883-c2e67d01dd43"
- width="700"
-     height="500"/>
+![image](https://github.com/user-attachments/assets/3b56c334-ab92-4f71-beb8-e043c50d0743)
 
 # OUTPUT
 
